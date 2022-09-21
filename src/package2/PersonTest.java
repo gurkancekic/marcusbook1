@@ -23,7 +23,7 @@ public class PersonTest {
         assertEquals("hakan", person[3].name);
         Assert.assertNotSame(person[3],person[2]);
         Assert.assertNotNull(person[3]);
-        Assert.assertNull(person[11]);
+        Assert.assertNull(person[12]);
          // Person gurkan32350 = new Person();
         //Person levent35500 = new Person();
         //System.out.println("Hello world!");
